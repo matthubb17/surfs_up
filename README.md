@@ -12,6 +12,13 @@ The goal of this project was to pull weather data for Hawaii to determine if it 
 
 **Software:** Python 3.9.7, SQL, SQLite, SQLAlchemy, Jupyter Notebook, and Flask
 
+## Results:
+
+- As we can see from the chart below, there is a large number of employees that are eligable for retirement. We can see that over 32,000 staff are eligable along with over 8,000 senior staff.
+
+![Retiring Titles Screenshot](https://github.com/matthubb17/Pewlett-Hackard-Analysis/blob/main/Data/Retiring%20Titles%20Screenshot.png)
+
 ## Summary:
 
 Within this challenge we used the ETL function to collect and clean the various data that was available to us listed above. We then worked through the data to load it and update an existing PostgreSQL tables.
+
