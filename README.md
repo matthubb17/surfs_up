@@ -8,7 +8,7 @@ The goal of this project was to pull weather data for Hawaii to determine if it 
 
 **Sqlite File:** [hawaii.sqlite](https://github.com/matthubb17/surfs_up/blob/main/hawaii.sqlite)
 
-**Challenge File:** [Challenge File 1](https://github.com/matthubb17/surfs_up/blob/main/SurfsUp_Challenge.ipynb))
+**Challenge File:** [SurfsUp_Challenge.ipynb](https://github.com/matthubb17/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 **Software:** Python 3.9.7, SQL, SQLite, SQLAlchemy, Jupyter Notebook, and Flask
 
