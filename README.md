@@ -16,7 +16,8 @@ The goal of this project was to pull weather data for Hawaii to determine if it 
 
 - As we can see from the chart below, there is a large number of employees that are eligable for retirement. We can see that over 32,000 staff are eligable along with over 8,000 senior staff.
 
-![Retiring Titles Screenshot](https://github.com/matthubb17/Pewlett-Hackard-Analysis/blob/main/Data/Retiring%20Titles%20Screenshot.png)
+![June Temps](https://github.com/matthubb17/surfs_up/blob/main/June%20Temps%20DF.JPG)
+![Dec Temps](https://github.com/matthubb17/surfs_up/blob/main/Dec%20Temps%20DF.JPG)
 
 ## Summary:
 
